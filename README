@@ -1,0 +1,12 @@
+This is a python project for analysising user data from the game RunCool.
+Name: Runcool Analysis
+Language: Python
+Legacy: R Language Scripts
+
+Details:
+There are mainly 2 parts in this project, the Class*.py and the Point*.py.
+In Class*.py are classes translated from MySQL tables based on SQLAlchemy.
+In Point*.py we do some analysis and get some results.
+In Questions.txt we have "Questions", which means something that we are interested and eager to find out.
+
+By: zyguo

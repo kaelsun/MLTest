@@ -1,0 +1,7 @@
+1. What do the distribution curve of user recharge amount looks like
+2. How about the cumulative distribution function
+3. Do users tend to recharge once or multiple times
+4. Do users tend to recharge for the maximum amount 
+5. When do users usually feel tired about this game
+6. Do users tend to play alone or to compete
+7. What kind of activities can attract them when they feel tired about the game
